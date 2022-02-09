@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "docker常用命令"
+categories: jekyll update
+---
+
+1. 查询容器 `docker ps -a`
+2. 启动容器 `docker start [id]`
+3. 查询历史命令 `docker history ubuntu:lastest`
+
