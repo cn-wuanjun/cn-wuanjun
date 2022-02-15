@@ -1,13 +1,20 @@
 #theme: jekyll-theme-minimal
 # theme: minima
+# theme: minimal-mistakes-jekyll
 # theme: just-the-docs # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: pmarsceill/just-the-docs
-title: 武安君的小屋🛖
+title: 沙海-积沙成塔
 email: 907711993@qq.com
 timezone: CN
 permalink: /:year/:month/:day/:title/
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-gist
+  - jekyll-feed
+# Back to top link
+back_to_top: true
+back_to_top_text: "返回顶部"
 collections:
   posts:
     # permalink: "/:collection/:path/"

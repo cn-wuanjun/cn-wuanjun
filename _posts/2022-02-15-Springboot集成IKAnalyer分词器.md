@@ -3,6 +3,8 @@ layout: post
 title:  "Springboot集成IKAnalyer分词器"
 categories: jekyll update
 ---
+1. TOC
+{:toc}
 ## 在pom.xml中添加依赖
 ```xml
 <!-- ikanalyzer 中文分词器  -->
@@ -73,23 +75,23 @@ public class IKAnalyzerSupport {
 ```
 ## 添加自定义配置
 在resource目录下新建文件
-- IKAnalyzer.cfg.xml
-    ```xml
-    <?xml version="1.0" encoding="UTF-8"?>
-    <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-    <properties>
-        <comment>IKAnalyzer扩展配置</comment>
-        <!--用户的扩展字典 -->
-        <entry key="ext_dict">extend.dic</entry>
-        <!--用户扩展停止词字典 -->
-        <entry key="ext_stopwords">stopword.dic</entry>
-    </properties>
-    ```
-- extend.dic 扩展词库
-  ```
-  侘寂
-  ```
-- stopword.dic 停用词库
-  ```
-  的
-  ```
+### IKAnalyzer.cfg.xml
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>IKAnalyzer扩展配置</comment>
+    <!--用户的扩展字典 -->
+    <entry key="ext_dict">extend.dic</entry>
+    <!--用户扩展停止词字典 -->
+    <entry key="ext_stopwords">stopword.dic</entry>
+</properties>
+```
+### extend.dic 扩展词库
+```
+侘寂
+```
+### stopword.dic 停用词库
+```
+的
+```
