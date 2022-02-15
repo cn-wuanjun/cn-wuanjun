@@ -86,9 +86,9 @@ public class IKAnalyzerSupport {
     </properties>
     ```
 - extend.dic 扩展词库
-    ```
-    侘寂
-    ```
+  ```
+  侘寂
+  ```
 - stopword.dic 停用词库
   ```
   的

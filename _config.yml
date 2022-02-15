@@ -1,8 +1,19 @@
 #theme: jekyll-theme-minimal
-theme: minima
+# theme: minima
+# theme: just-the-docs # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: pmarsceill/just-the-docs
 title: 武安君的小屋🛖
 email: 907711993@qq.com
 timezone: CN
 permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-gist
+collections:
+  posts:
+    # permalink: "/:collection/:path/"
+    output: false
+
+just_the_docs:
+  collections:
+    posts:
+      name: Documentation
