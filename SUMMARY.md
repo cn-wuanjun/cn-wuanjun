@@ -1,3 +1,3 @@
 # Table of contents
 
-* [替换 homebrew 源](README.md)
+* [homebrew安装配置和优化](README.md)
