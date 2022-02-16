@@ -1,10 +1,8 @@
 ---
-layout: post
 title:  "Springboot集成IKAnalyer分词器"
 categories: jekyll update
+toc: true
 ---
-1. TOC
-{:toc}
 ## 在pom.xml中添加依赖
 ```xml
 <!-- ikanalyzer 中文分词器  -->
