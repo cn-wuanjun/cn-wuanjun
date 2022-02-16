@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Hi there 👋](README.md)
+* [替换 homebrew 源](README.md)
