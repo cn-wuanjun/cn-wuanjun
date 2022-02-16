@@ -1,60 +1,26 @@
 #theme: jekyll-theme-minimal
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 # theme: just-the-docs # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-# remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs
 title: 沙海-积沙成塔
 email: 907711993@qq.com
-timezone: Asia/Shanghai
+timezone: CN
 permalink: /:year/:month/:day/:title/
-date_format: "%Y-%m-%d"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  # - jekyll-feed
-  - jekyll-include-cache
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      show_date: true
-      layout: archive
-      author_profile: true
-      read_time: true
-      comments: true
-      share: false
-      related: true
-      # classes: wide
-  - scope:
-      path: "index"
-      type: page
-    values:
-      author_profile: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-author:
-  name: "武安君"
-  # avatar: "/assets/images/bio-photo.jpg"
-  bio: "某渡劫期练气士." # Note: Markdown is allowed
-  location: "江苏·南京"
-  email: 907711993@qq.com
+  - jekyll-feed
+# Back to top link
+back_to_top: true
+back_to_top_text: "返回顶部"
+collections:
+  posts:
+    # permalink: "/:collection/:path/"
+    output: false
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+just_the_docs:
+  collections:
+    posts:
+      name: Documentation
