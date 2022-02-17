@@ -166,18 +166,3 @@ RecommendedItem[item:13017549, value:1.0]
 RecommendedItem[item:15286618, value:1.0]
 RecommendedItem[item:15368495, value:1.0]
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-<div id="gitalk-container"></div>
-<script>
-var gitalk = new Gitalk({
-  "clientID": "d77d5e78dc1c5de7baf5",
-  "clientSecret": "9b75bb9a885551d035819c27cf1b48900752b6e7",
-  "repo": "cn-wuanjun",
-  "owner": "cn-wuanjun",
-  "admin": ["cn-wuanjun"], 
-  "distractionFreeMode": false  
-});
-gitalk.render("gitalk-container");
-</script>
-
