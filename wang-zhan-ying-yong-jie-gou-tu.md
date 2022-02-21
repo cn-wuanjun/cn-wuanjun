@@ -1,17 +1,10 @@
 # 网站应用结构图
 
-```flow
-open=>start: Open:>https://github.com/knsv/mermaid
-    userInput=>inputoutput: User Input
-    processes=>operation: Processes
-    results=>condition: Yes or No?
-    regis=>condition: GoSignUp,Yes or No?
-    userr=>operation: SignUp
-    end=>end: End
-    open->userInput->processes->results
-    results(yes)->end
-    results(no)->regis
-    regis(yes)->userr
-    regis(no)->userInput
+```mermaid
+graph TD
+A1[用户1] -->|访问| B(负载均衡)
+A2[用户2] -->|访问| B(负载均衡)
+B -->|条件C1| D[模块D]
+B -->|条件C2| E[模块E]
+B -->|条件C3| F[模块F]
 ```
-
