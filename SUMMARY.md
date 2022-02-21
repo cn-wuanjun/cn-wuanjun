@@ -20,3 +20,7 @@
 ## Mybatis
 
 * [多参数传递](mybatis/duo-can-shu-chuan-di.md)
+
+***
+
+* [网站应用结构图](wang-zhan-ying-yong-jie-gou-tu.md)
