@@ -1,5 +1,7 @@
 # 网站应用结构图
-
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});
+</script>
 ```mermaid
 graph TD
 A1[用户1] -->|访问| B(负载均衡)
