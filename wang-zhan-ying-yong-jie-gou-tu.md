@@ -1,4 +1,5 @@
 # 网站应用结构图
+> 语法部分参考自:https://mermaid-js.github.io/mermaid/#/flowchart
 
 ```mermaid
 flowchart TD
