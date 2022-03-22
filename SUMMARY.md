@@ -24,3 +24,7 @@
 ***
 
 * [网站应用结构图](wang-zhan-ying-yong-jie-gou-tu.md)
+
+## python
+
+* [图片处理-指定大小缩放](python/tu-pian-chu-li-zhi-ding-da-xiao-suo-fang.md)
