@@ -1,6 +1,5 @@
 ---
 description: 解决清晰度不足/模糊的问题
-layout: editorial
 ---
 
 # 图片处理-指定大小缩放
