@@ -32,3 +32,8 @@
 ## python
 
 * [图片处理-指定大小缩放](python/tu-pian-chu-li-zhi-ding-da-xiao-suo-fang.md)
+
+***
+
+* [Linux环境配置](linux-huan-jing-pei-zhi.md)
+* [Linux 网络流量监控利器 iftop 中文入门指南](https://blog.csdn.net/qq\_40907977/article/details/115066452)
