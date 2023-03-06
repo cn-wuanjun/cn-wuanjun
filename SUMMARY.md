@@ -31,6 +31,7 @@
 
 ## python
 
+* [图片处理后出现的色差问题](python/tu-pian-chu-li-hou-chu-xian-de-se-cha-wen-ti.md)
 * [图片处理-指定大小缩放](python/tu-pian-chu-li-zhi-ding-da-xiao-suo-fang.md)
 
 ***
