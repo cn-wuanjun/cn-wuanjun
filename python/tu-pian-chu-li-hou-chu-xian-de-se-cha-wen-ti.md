@@ -1,3 +1,7 @@
+---
+description: 参考网页：https://www.qiniu.com/qfans/qnso-11041044#comments
+---
+
 # 图片处理后出现的色差问题
 
 图片的rgb颜色标准有2类：sRGB和Adobe RGB
