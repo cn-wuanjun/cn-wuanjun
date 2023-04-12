@@ -21,6 +21,7 @@
 * [Git常用命令](shell-ming-ling-hang/git-chang-yong-ming-ling.md)
 * [docker常用命令](docker-chang-yong-ming-ling.md)
 * [homebrew安装配置和优化](homebrew-an-zhuang-pei-zhi-he-you-hua.md)
+* [Vim指令](shell-ming-ling-hang/vim-zhi-ling.md)
 
 ## Mybatis
 
