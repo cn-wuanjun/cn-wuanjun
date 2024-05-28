@@ -40,6 +40,8 @@ async componentDidMount() {
 
 按照官方步骤配置子应用：[https://qiankun.umijs.org/zh/guide/tutorial#%E9%9D%9E-webpack-%E6%9E%84%E5%BB%BA%E7%9A%84%E5%BE%AE%E5%BA%94%E7%94%A8](https://qiankun.umijs.org/zh/guide/tutorial#%E9%9D%9E-webpack-%E6%9E%84%E5%BB%BA%E7%9A%84%E5%BE%AE%E5%BA%94%E7%94%A8)
 
+
+
 每个页面中都确保加载`entry.js`
 
 ## 注意点
@@ -51,4 +53,6 @@ async componentDidMount() {
 
 ## Todo
 
-layui子应用中的js引用从动态修改为静态\
+* [ ] layui子应用中的js引用从动态修改为静态\
+
+
