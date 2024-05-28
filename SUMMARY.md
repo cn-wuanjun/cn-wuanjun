@@ -9,6 +9,7 @@
 * [CSS超出部分...表示](da-qian-duan/css-chao-chu-bu-fen-...-biao-shi.md)
 * [umi框架SSR 服务端获取cookie](da-qian-duan/umi-kuang-jia-ssr-fu-wu-duan-huo-qu-cookie.md)
 * [如何使用Electron-builder进行数字签名打包](da-qian-duan/ru-he-shi-yong-electronbuilder-jin-hang-shu-zi-qian-ming-da-bao.md)
+* [微前端框架改造历史项目实践](da-qian-duan/wei-qian-duan-kuang-jia-gai-zao-li-shi-xiang-mu-shi-jian.md)
 
 ## Java
 
