@@ -3,6 +3,11 @@
 * [为什么要记录](README.md)
 * [CentOS 8部署配置测试环境](centos-8-bu-shu-pei-zhi-ce-shi-huan-jing.md)
 
+## AI
+
+* [智能体(Agent)](ai/zhi-neng-ti-agent.md)
+* [AI搜索](ai/ai-sou-suo.md)
+
 ## 大前端
 
 * [前端生产环境](da-qian-duan/qian-duan-sheng-chan-huan-jing.md)
