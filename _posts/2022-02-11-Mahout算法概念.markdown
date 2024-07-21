@@ -9,5 +9,3 @@ categories: jekyll update
 ## 协同过滤
 ### 用户协同
 ### 物品协同
-
-{% gist 91002a243dbbf0aef0348aaf8ce51ac9 %}
