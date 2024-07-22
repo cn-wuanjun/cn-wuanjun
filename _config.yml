@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 沙海-积沙成塔
-email: 907711993@qq.com
+email: baiqi1993@gmail.com
 # timezone: CN
 # permalink: /:year/:month/:day/:title/
 description: 个人博客
@@ -30,6 +30,7 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
