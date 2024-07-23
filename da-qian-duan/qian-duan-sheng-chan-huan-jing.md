@@ -36,7 +36,9 @@ source ~/.bashrc
 
 #### 如果在国内遇到网络错误
 
-访问国内dns解析站点：[https://tool.chinaz.com/dns/raw.githubusercontent.com](https://tool.chinaz.com/dns/raw.githubusercontent.com)，找到合适的解析ip，然后修改服务器上的`/etc/hosts`文件，增加一行
+1. 访问国内dns解析站点：[https://tool.chinaz.com/dns/raw.githubusercontent.com](https://tool.chinaz.com/dns/raw.githubusercontent.com)
+2. 找到合适的解析ip，一般是地理位置近的
+3. 然后修改服务器上的`/etc/hosts`文件，增加一行
 
 ```
 185.199.108.133 raw.githubusercontent.com

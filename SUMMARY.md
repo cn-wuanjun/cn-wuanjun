@@ -8,6 +8,11 @@
 * [智能体(Agent)](ai/zhi-neng-ti-agent.md)
 * [AI搜索](ai/ai-sou-suo.md)
 
+## 架构
+
+* [分库分表](jia-gou/fen-ku-fen-biao.md)
+* [网站应用结构图](jia-gou/wang-zhan-ying-yong-jie-gou-tu.md)
+
 ## 大前端
 
 * [前端生产环境](da-qian-duan/qian-duan-sheng-chan-huan-jing.md)
@@ -32,10 +37,6 @@
 ## Mybatis
 
 * [多参数传递](mybatis/duo-can-shu-chuan-di.md)
-
-***
-
-* [网站应用结构图](wang-zhan-ying-yong-jie-gou-tu.md)
 
 ## python
 
