@@ -15,6 +15,20 @@ yarn
 npm run prd
 ```
 
+#### 安装nodejs18
+
+```bash
+# 添加NodeSource存储库
+curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
+
+# 使用dnf安装Node.js
+sudo dnf install -y nodejs
+
+# 验证Node.js和npm的版本
+node -v
+npm -v
+```
+
 #### 线上服务器build出现内存溢出
 
 ```bash
