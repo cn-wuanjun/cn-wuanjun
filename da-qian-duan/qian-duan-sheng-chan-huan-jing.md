@@ -29,6 +29,12 @@ node -v
 npm -v
 ```
 
+#### 安装git
+
+```bash
+sudo dnf install -y git
+```
+
 #### 线上服务器build出现内存溢出
 
 ```bash
