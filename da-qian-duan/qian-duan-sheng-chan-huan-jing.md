@@ -29,6 +29,13 @@ node -v
 npm -v
 ```
 
+安装yarn,pm2
+
+```bash
+sudo npm install -g yarn --registry=https://registry.npmmirror.com
+sudo npm install -g pm2 --registry=https://registry.npmmirror.com
+```
+
 #### 安装git
 
 ```bash
