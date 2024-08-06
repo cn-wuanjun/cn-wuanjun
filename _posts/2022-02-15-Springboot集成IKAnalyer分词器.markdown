@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Springboot集成IKAnalyer分词器"
 categories: jekyll update
 toc: true

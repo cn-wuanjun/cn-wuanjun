@@ -23,7 +23,7 @@ email: baiqi1993@gmail.com
 # timezone: CN
 # permalink: /:year/:month/:day/:title/
 description: 个人博客
-baseurl: "/cn-wuanjun" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://cn-wuanjun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -63,10 +63,10 @@ plugins:
 # Back to top link
 # back_to_top: true
 # back_to_top_text: "返回顶部"
-# collections:
-#   posts:
-#     # permalink: "/:collection/:path/"
-#     output: false
+collections:
+  posts:
+    permalink: "/:collection/:path/"
+    output: true
 
 # just_the_docs:
 #   collections:

@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Homebrew安装配置和优化"
 categories: jekyll update
 ---

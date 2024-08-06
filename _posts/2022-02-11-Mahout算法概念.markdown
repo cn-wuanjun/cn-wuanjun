@@ -1,4 +1,5 @@
 ---
+layout: default
 title:  "Mahout算法概念"
 categories: jekyll update
 ---
